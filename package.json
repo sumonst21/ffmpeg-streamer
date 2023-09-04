@@ -27,7 +27,7 @@
     "mp4frag": "^0.1.1",
     "pipe2jpeg": "^0.2.7",
     "serve-favicon": "^2.5.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.5.0"
   },
   "bin": "app.js",
   "main": "app.js",

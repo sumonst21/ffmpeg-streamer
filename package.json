@@ -14,10 +14,10 @@
     "lint:fix": "standard --fix app.js es6_public/*.es6 routes/*.js sockets/*.js lib/*.js"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.2",
     "cookie-parser": "^1.4.3",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "ffbinaries": "^1.1.1",
     "ffmpeg-respawn": "^0.1.0",
     "hls.js": "^0.12.2",
